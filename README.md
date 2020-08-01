@@ -10,7 +10,7 @@ Flyway database migrations in a Spring Boot Application
 ## How to run
 On Linux / macOS:
 
-    .\gradlew bootRun
+    ./gradlew bootRun
 
 On Windows:
 
